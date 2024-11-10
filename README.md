@@ -1,5 +1,5 @@
 # 👋  Bienvenue dans mon univers de code et de créativité 
-# ![Tomker]([https://github.com/TomkerDev](https://github.com/TomkerDev/TomkerDev/blob/b1c177d2e9803f90d84401c3f87b066a3ad3be2d/5484597.jpg))
+# ![Tomker](https://github.com/TomkerDev/TomkerDev/blob/b1c177d2e9803f90d84401c3f87b066a3ad3be2d/5484597.jpg)
 
 
 ## 🧑‍💻 À propos de moi
@@ -43,9 +43,21 @@ j'aime combiner design intuitif et technologie avancée pour construire des appl
 
 ---
 ## 📫 Contact
+<div style="display: flex; align-items: center; gap: 10px;">
 
-- **Email** : [tomtehassane33@mail.com](mailto:tomtehassane@gmail.com)
-- **LinkedIn** : [Tomté Hassane](https://www.linkedin.com/in/tomte-hassane)
-- **GitHub** : [TomkerDev](https://github.com/TomkerDev)
+  <a href="https://github.com/TomkerDev" target="_blank">
+    <img src="https://github.com/TomkerDev/TomkerDev/blob/main/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;"/>
+  </a>
+
+  <a href="https://github.com/ton_nom_utilisateur" target="_blank">
+    <img src="https://github.com/TomkerDev/TomkerDev/blob/main/facebook%20(1).png" alt="GitHub" style="width: 30px; height: 30px;"/>
+  </a>
+
+  <a href="mailto:tomtehassane@gmail.com">
+    <img src="https://github.com/TomkerDev/TomkerDev/blob/main/email.png" alt="Email" style="width: 30px; height: 30px;"/>
+  </a>
+
+</div>
+
 
 N'hésite pas à me contacter pour des collaborations, des projets, ou juste pour discuter de développement et de données !
